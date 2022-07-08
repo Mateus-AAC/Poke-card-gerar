@@ -1,0 +1,1 @@
+# Poke-card-gerar
